@@ -1,0 +1,6 @@
+.env
+.env.*
+!.env.sample
+source
+*.exe
+.DS_Store
